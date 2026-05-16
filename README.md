@@ -1,5 +1,4 @@
-Binary Counter
-
+# BINARY COUNTER
 
 **About the Project**
 
